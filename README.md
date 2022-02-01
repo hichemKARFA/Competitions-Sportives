@@ -176,7 +176,7 @@ Pour consulter la documentation, placez-vous dans le dossier docs qui vient d'ê
 Pour compiler le projet, placez-vous dans la racine du projet et exécutez la commande :
 
 ```bash
-$ > mvn build
+$ > mvn compile
 ```
 
 
