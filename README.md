@@ -152,13 +152,13 @@ Le projet se répartir de la façon suivante :
 Récupérer le projet avec HTTPS :
 
 ```bash
-$ > git clone https://gitlab-etu.fil.univ-lille1.fr/rachmat/coo-project.git
+$ > git clone https://github.com/hichemKARFA/Competitions-Sportives.git
 ```
 
 Récupérer le projet avec SSH :
 
 ```bash
-$ > git clone git@gitlab-etu.fil.univ-lille1.fr:rachmat/coo-project.git
+$ > git clone git@github.com:hichemKARFA/Competitions-Sportives.git
 ```
 
 ## 2) Génération de la documentation
